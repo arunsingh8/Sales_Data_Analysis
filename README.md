@@ -10,16 +10,16 @@ Developed a rich, comprehensive dashboard that would visualize and help analyze 
 
 ## Sales Performance Analysis:
 
-Top/Bottom 5 Products: Analyzed the top and bottom performing products by sales, profit, and the number sold.
-Sales Trends: Analyzed sales trends over time for daily, monthly, quarterly, and yearly trends to break out seasonal patterns and growth opportunities.
+- Top/Bottom 5 Products: Analyzed the top and bottom performing products by sales, profit, and the number sold.
+- Sales Trends: Analyzed sales trends over time for daily, monthly, quarterly, and yearly trends to break out seasonal patterns and growth opportunities.
 Relationship between Sales and Profit: Provided insight into how sales and profit were interlinked for appropriate recommendations on price strategy and product mix.
-Comparative Analysis: This feature enabled me to compare the sales, profit, and units sold of any two chosen periods. It is useful for trend identification on the performance and as a recommendation point on where to concentrate on.
+- Comparative Analysis: This feature enabled me to compare the sales, profit, and units sold of any two chosen periods. It is useful for trend identification on the performance and as a recommendation point on where to concentrate on.
 
 ## Customer Behavior Analysis:
 
-Customer Segmentation: segmented customers on various attributes including frequency of purchase and average order value towards fine-tuning marketing campaigns and enhancing retention.
-Customer Lifetime Value (CLTV): Calculated CLTV to find out the high-value customers and thus place retention emphasis.
-Customer Buying Habits: Analyzed the customer purchase history for product preferences and cross-selling and upselling opportunities.
+- Customer Segmentation: segmented customers on various attributes including frequency of purchase and average order value towards fine-tuning marketing campaigns and enhancing retention.
+- Customer Lifetime Value (CLTV): Calculated CLTV to find out the high-value customers and thus place retention emphasis.
+- Customer Buying Habits: Analyzed the customer purchase history for product preferences and cross-selling and upselling opportunities.
 
 ## Promotional Performance Analysis:
 
