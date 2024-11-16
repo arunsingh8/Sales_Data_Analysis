@@ -1,4 +1,5 @@
 # Sales_Data_Analysis
+https://github.com/user-attachments/assets/8c047d29-7b41-4b4a-8169-8a4d9c56e690
 
 # Problem Statement:
 Electrohub is a multi-category retail chain that feels the need to understand more deeply the sales performance and customer behavior. This required a heavy-duty analysis solution that would deliver actionable insights.
