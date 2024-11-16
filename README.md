@@ -2,7 +2,7 @@
 ![Screenshot 2024-11-16 020230](https://github.com/user-attachments/assets/8c047d29-7b41-4b4a-8169-8a4d9c56e690)
 
 # Live Dashboard :
-## https://www.novypro.com/create_project/sales-analysis-dashboard-83
+## [https://www.novypro.com/create_project/sales-analysis-dashboard-83](https://project.novypro.com/lYH2bv)
 
 
 # Problem Statement:
