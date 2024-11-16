@@ -46,3 +46,6 @@ Relationship between Sales and Profit: Provided insight into how sales and profi
 - Predictive Analytics : Use predictive analytics techniques to predict the future sales trend and demand pattern.
 - Advanced Visualization : Will require more in-depth visualization techniques and possibly greater storytelling capacity.
 - Real-time Dashboards : Real-time dashboards that can watch KPIs, change market conditions, and will be asking for responses accordingly.
+
+# Live Dashboard :
+## https://www.novypro.com/create_project/sales-analysis-dashboard-83
