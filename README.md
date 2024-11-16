@@ -1,6 +1,10 @@
 # Sales_Data_Analysis
 ![Screenshot 2024-11-16 020230](https://github.com/user-attachments/assets/8c047d29-7b41-4b4a-8169-8a4d9c56e690)
 
+# Live Dashboard :
+## https://www.novypro.com/create_project/sales-analysis-dashboard-83
+
+
 # Problem Statement:
 Electrohub is a multi-category retail chain that feels the need to understand more deeply the sales performance and customer behavior. This required a heavy-duty analysis solution that would deliver actionable insights.
 
@@ -48,5 +52,4 @@ Relationship between Sales and Profit: Provided insight into how sales and profi
 - Advanced Visualization : Will require more in-depth visualization techniques and possibly greater storytelling capacity.
 - Real-time Dashboards : Real-time dashboards that can watch KPIs, change market conditions, and will be asking for responses accordingly.
 
-# Live Dashboard :
-## https://www.novypro.com/create_project/sales-analysis-dashboard-83
+
